@@ -2,7 +2,7 @@ import telebot
 import requests
 import json
 
-bot = telebot.TeleBot('5946513884:AAGkl2MPaJ5sK0BRYsbWkY6PV23JJBF1-aU')
+bot = telebot.TeleBot('API KEY')
 API = '709e3cbe105d05f7bfdb27403929d3bc'
 
 weather_mapping = {
